@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/2s-tool/static/css/main.e1567168.chunk.css",
+    "main.js": "/2s-tool/static/js/main.1893b186.chunk.js",
+    "runtime-main.js": "/2s-tool/static/js/runtime-main.3c1ad41e.js",
+    "static/js/2.995fe95d.chunk.js": "/2s-tool/static/js/2.995fe95d.chunk.js",
+    "index.html": "/2s-tool/index.html",
+    "precache-manifest.c437e6b3eb2c9646bb9680d2ae815a6f.js": "/2s-tool/precache-manifest.c437e6b3eb2c9646bb9680d2ae815a6f.js",
+    "service-worker.js": "/2s-tool/service-worker.js",
+    "static/js/2.995fe95d.chunk.js.LICENSE.txt": "/2s-tool/static/js/2.995fe95d.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/2s-tool/static/media/MaterialIcons-Regular.d120c85b.ttf",
+    "static/media/i.png": "/2s-tool/static/media/i.2298261f.png",
+    "static/media/logo.svg": "/2s-tool/static/media/logo.5d5d9eef.svg",
+    "static/media/qrcode-alipay.png": "/2s-tool/static/media/qrcode-alipay.379d7c49.png",
+    "static/media/qrcode-wechat.png": "/2s-tool/static/media/qrcode-wechat.c3c01667.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c1ad41e.js",
+    "static/js/2.995fe95d.chunk.js",
+    "static/css/main.e1567168.chunk.css",
+    "static/js/main.1893b186.chunk.js"
+  ]
+}
