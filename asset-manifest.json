@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/2s-tool/static/css/main.09e378b9.chunk.css",
-    "main.js": "/2s-tool/static/js/main.6324ee58.chunk.js",
+    "main.css": "/2s-tool/static/css/main.cb59875e.chunk.css",
+    "main.js": "/2s-tool/static/js/main.1e024289.chunk.js",
     "runtime-main.js": "/2s-tool/static/js/runtime-main.3c1ad41e.js",
     "static/js/2.995fe95d.chunk.js": "/2s-tool/static/js/2.995fe95d.chunk.js",
     "index.html": "/2s-tool/index.html",
-    "precache-manifest.a34c162d1cc437934266ce6ae8d88a0e.js": "/2s-tool/precache-manifest.a34c162d1cc437934266ce6ae8d88a0e.js",
+    "precache-manifest.af99d0fbf89f1cdb6ae4b24cb6211f1a.js": "/2s-tool/precache-manifest.af99d0fbf89f1cdb6ae4b24cb6211f1a.js",
     "service-worker.js": "/2s-tool/service-worker.js",
     "static/js/2.995fe95d.chunk.js.LICENSE.txt": "/2s-tool/static/js/2.995fe95d.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/2s-tool/static/media/MaterialIcons-Regular.d120c85b.ttf",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.3c1ad41e.js",
     "static/js/2.995fe95d.chunk.js",
-    "static/css/main.09e378b9.chunk.css",
-    "static/js/main.6324ee58.chunk.js"
+    "static/css/main.cb59875e.chunk.css",
+    "static/js/main.1e024289.chunk.js"
   ]
 }
